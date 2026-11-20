@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#07080A"/>
+  <rect x="4" y="4" width="56" height="56" rx="11" stroke="#2E3543" stroke-width="2.5"/>
+  <!-- Corner Framing Ticks -->
+  <path d="M12 20V12H20" stroke="#9BA3B0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M52 44V52H44" stroke="#9BA3B0" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Core 'F' Monogram -->
+  <path d="M22 18H44M22 32H36M22 18V46" stroke="#10B981" stroke-width="5.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Signal Indicator Dot -->
+  <circle cx="43" cy="43" r="4.5" fill="#10B981"/>
+</svg>

@@ -1,0 +1,17 @@
+{
+  "name": "FramePure Studio",
+  "short_name": "FramePure",
+  "description": "Lossless HEVC & 4K 120FPS Video Packaging for TikTok",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07080a",
+  "theme_color": "#07080a",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
